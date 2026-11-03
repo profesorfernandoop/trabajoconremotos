@@ -1,0 +1,2 @@
+Este fichero se ha creado directamente desde el repositorio remoto.
+Confirmaremos los cambios en el remoto y después haremos un git pull al repositorio local.
