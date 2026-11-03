@@ -1,1 +1,3 @@
-Hola Mundo Conflictos
+---------------------------------------------
+Esto no genera conflicto. Hay un fast-forward
+--------------------------------------------
